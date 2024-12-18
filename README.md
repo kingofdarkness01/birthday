@@ -5,5 +5,4 @@ It provides a virtual "turtle" that can be controlled to draw shapes, lines, and
 
 Here , We print birthday cake using python turtlee .
 
-Here is a preview of the Project. <br>
-<a href="https://replit.com/@PRIYANSHUSIN102/birthday?v=1">Live Demo</a>
+
